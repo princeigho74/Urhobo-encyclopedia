@@ -1,0 +1,16 @@
+{
+  "name": "Urhobo Encyclopedia",
+  "short_name": "Urhobo",
+  "description": "The living archive of Urhobo language, history, artifacts, and culture.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f4f1",
+  "theme_color": "#b85c38",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}
